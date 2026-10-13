@@ -1,0 +1,9 @@
+
+runs/
+*.vcd
+
+runs/
+*.vcd
+src/*.rpt
+src/minialu_synth.v
+src/sky130.lib

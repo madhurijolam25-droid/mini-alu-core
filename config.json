@@ -1,0 +1,6 @@
+{
+    "DESIGN_NAME": "minialu_core_top",
+    "VERILOG_FILES": "dir::src/*.v",
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 14.6735
+}
